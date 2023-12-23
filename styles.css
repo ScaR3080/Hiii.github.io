@@ -19,7 +19,7 @@ body {
 }
 
 .header_text {
-    font-family: 'Brush Script MT', cursive;
+    font-family: 'Brush Script MT';
     font-size: 40px;
     font-weight: bold;
     color: white;
@@ -35,12 +35,12 @@ body {
     align-items: center;
     margin-top: 20px;
     margin-left: 20px;
-    font-family: 'Brush Script MT', cursive;
+    font-family: 'Brush Script MT';
 }
 
 /* ffb6c1 */
 .btn {
-    font-family: 'Brush Script MT', cursive;
+    font-family: 'Brush Script MT';
     background-color: #e07c8b;
     color: white;
     padding: 15px 32px;
